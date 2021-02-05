@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.sg.datastructuresandalgorithms.data_structures.linkedlists.DoublyLinkedList;
+package data_structures.linked_lists.doubly_linked_list;
 
 import java.util.Arrays;
 

@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package data_structures.stacks.using_linkedlists;
+package data_structures.queues.using_linkedlist;
+
+import com.sun.jdi.Value;
 
 /**
  *

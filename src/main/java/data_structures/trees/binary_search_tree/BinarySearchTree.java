@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package data_structures.trees;
+package data_structures.trees.binary_search_tree;
 
 /**
  *

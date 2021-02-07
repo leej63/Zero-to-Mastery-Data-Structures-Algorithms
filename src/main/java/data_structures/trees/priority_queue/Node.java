@@ -3,20 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package data_structures.trees;
+package data_structures.trees.priority_queue;
 
 /**
  *
  * @author jonat
  */
 public class Node {
-    int value;
-    Node left;
-    Node right;
+    String value;
+    int priority;
     
-    public Node(int value) {
+    public Node(String value, int priority) {
         this.value = value;
-        this.left = null;
-        this.right = null;
+        this.priority = priority;
     }
 }

@@ -1,4 +1,11 @@
-com\sg\datastructuresandalgorithms\data_structures\linkedlists\DoublyLinkedList\Node.class
-com\sg\datastructuresandalgorithms\data_structures\linkedlists\SinglyLinkedList\Node.class
-com\sg\datastructuresandalgorithms\data_structures\linkedlists\SinglyLinkedList\SinglyLinkedList.class
-com\sg\datastructuresandalgorithms\data_structures\linkedlists\DoublyLinkedList\DoublyLinkedList.class
+data_structures\linked_lists\doubly_linked_list\DoublyLinkedList.class
+data_structures\stacks\using_linkedlist\Node.class
+data_structures\linked_lists\singly_linked_list\Node.class
+data_structures\queues\using_linkedlist\Queue.class
+data_structures\stacks\using_linkedlist\Stack.class
+data_structures\trees\BinarySearchTree.class
+data_structures\queues\using_linkedlist\Node.class
+data_structures\stacks\using_array\Stack.class
+data_structures\linked_lists\doubly_linked_list\Node.class
+data_structures\linked_lists\singly_linked_list\SinglyLinkedList.class
+data_structures\trees\Node.class

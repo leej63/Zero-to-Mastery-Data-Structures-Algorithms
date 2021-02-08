@@ -3,6 +3,8 @@ data_structures\trees\trie\Trie.class
 data_structures\trees\priority_queue\Node.class
 data_structures\linked_lists\singly_linked_list\Node.class
 data_structures\stacks\using_linkedlist\Stack.class
+algorithms\recursion\fibonacci\Fibonacci.class
+algorithms\recursion\factorial\Factorial.class
 data_structures\queues\using_linkedlist\Node.class
 data_structures\stacks\using_array\Stack.class
 data_structures\trees\trie\Node.class

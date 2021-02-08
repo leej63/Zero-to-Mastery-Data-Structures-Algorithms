@@ -32,7 +32,7 @@ public class Trie {
                 return false;
             }
         }
-        return current.isWord;
+        return current.isWord; 
     }
     
     public boolean delete(String word) {

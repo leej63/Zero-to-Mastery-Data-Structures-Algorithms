@@ -1,13 +1,16 @@
 data_structures\linked_lists\doubly_linked_list\DoublyLinkedList.class
+data_structures\trees\trie\Trie.class
 data_structures\trees\priority_queue\Node.class
 data_structures\linked_lists\singly_linked_list\Node.class
 data_structures\stacks\using_linkedlist\Stack.class
 data_structures\queues\using_linkedlist\Node.class
 data_structures\stacks\using_array\Stack.class
+data_structures\trees\trie\Node.class
 data_structures\linked_lists\doubly_linked_list\Node.class
 data_structures\linked_lists\singly_linked_list\SinglyLinkedList.class
 data_structures\trees\priority_queue\PriorityQueue.class
 data_structures\stacks\using_linkedlist\Node.class
 data_structures\trees\binary_search_tree\Node.class
+data_structures\graphs\Graph.class
 data_structures\queues\using_linkedlist\Queue.class
 data_structures\trees\binary_search_tree\BinarySearchTree.class

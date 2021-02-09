@@ -1,3 +1,4 @@
+algorithms\sorting\insertion_sort\InsertionSort.class
 data_structures\linked_lists\doubly_linked_list\DoublyLinkedList.class
 data_structures\trees\trie\Trie.class
 data_structures\trees\priority_queue\Node.class
@@ -6,8 +7,10 @@ data_structures\stacks\using_linkedlist\Stack.class
 algorithms\recursion\fibonacci\Fibonacci.class
 algorithms\recursion\factorial\Factorial.class
 data_structures\queues\using_linkedlist\Node.class
+algorithms\sorting\quick_sort\QuickSort.class
 data_structures\stacks\using_array\Stack.class
 algorithms\sorting\bubble_sort\BubbleSort.class
+algorithms\sorting\merge_sort\MergeSort.class
 algorithms\sorting\selection_sort\SelectionSort.class
 data_structures\trees\trie\Node.class
 data_structures\linked_lists\doubly_linked_list\Node.class

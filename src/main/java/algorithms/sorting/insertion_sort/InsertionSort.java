@@ -34,8 +34,8 @@ public class InsertionSort {
         }
         return array;
     }
-    // Time complexity: O(?)
-    // Space complexity: O(?)
+    // Time complexity: O(n^2)
+    // Space complexity: O(1)
     
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>(Arrays.asList(99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0));

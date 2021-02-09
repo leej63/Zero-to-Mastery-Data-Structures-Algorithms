@@ -15,7 +15,40 @@ import java.util.List;
  */
 public class MergeSort {
     public static List<Integer> mergeSort(List<Integer> array) {
+        if(array.size() == 1) return array;
         
+        int length = array.size();
+        int middle = array.size() / 2;
+        List<Integer> left = array.subList(0, middle);
+        List<Integer> right = array.subList(middle, length);
+        
+        return merge(mergeSort(left), mergeSort(right));
+    }
+    
+    // Time complexity: O(n log n)
+    // Space complexity: O(n)
+    
+    public static List<Integer> merge(List<Integer> left, List<Integer> right) {
+        List<Integer> result = new ArrayList<>();
+        int leftIndex = 0;
+        int rightIndex = 0;
+        
+        while(leftIndex < left.size() && rightIndex < right.size()) {
+            if (left.get(leftIndex) < right.get(rightIndex)) {
+                result.add(left.get(leftIndex));
+                leftIndex++;
+            } else {
+                result.add(right.get(rightIndex));
+                rightIndex++;
+            }
+        }
+        List<Integer> leftRemaining = left.subList(leftIndex, left.size());
+        List<Integer> rightRemaining = right.subList(rightIndex, right.size());
+        
+        result.addAll(leftRemaining);
+        result.addAll(rightRemaining);
+        
+        return result;
     }
     
     public static void main(String[] args) {

@@ -7,6 +7,8 @@ algorithms\recursion\fibonacci\Fibonacci.class
 algorithms\recursion\factorial\Factorial.class
 data_structures\queues\using_linkedlist\Node.class
 data_structures\stacks\using_array\Stack.class
+algorithms\sorting\bubble_sort\BubbleSort.class
+algorithms\sorting\selection_sort\SelectionSort.class
 data_structures\trees\trie\Node.class
 data_structures\linked_lists\doubly_linked_list\Node.class
 data_structures\linked_lists\singly_linked_list\SinglyLinkedList.class
@@ -16,3 +18,4 @@ data_structures\trees\binary_search_tree\Node.class
 data_structures\graphs\Graph.class
 data_structures\queues\using_linkedlist\Queue.class
 data_structures\trees\binary_search_tree\BinarySearchTree.class
+algorithms\recursion\reverse_string\ReverseString.class
